@@ -67,9 +67,8 @@ This can be done by running the following command:
 python install.py
 ```
 
-### Setup is Complete
+### Congratulations!
 
-Congratulations!
 You've installed the Dratini SDK (Software Development Kit)!
 
 From here, I highly recommend visiting [our ever-growing collection of examples](https://github.com/dratini-lang/examples)!
