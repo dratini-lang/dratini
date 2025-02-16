@@ -18,8 +18,8 @@ However, this may potentially change in the future if the community collectively
 If you follow the steps below, we'll have you up and running Dratini code in no time!
 
 Each section has two sub-sections: `GitHub Desktop` and `git`.
-`GitHub Desktop` sub-sections are for users who have installed and use the GitHub Desktop application *([Windows/Mac](https://desktop.github.com/download/) | [Linux](https://github.com/shiftkey/desktop))*.
-The other sub-section, `git`, is for users who have installed and use the `git` command-line interface.
+`GitHub Desktop` sub-sections are for users who have installed and use the GitHub Desktop application *([Download `GitHub Desktop` for Linux](https://github.com/shiftkey/desktop/releases/latest) | [Download `GitHub Desktop` for Windows/Mac](https://desktop.github.com/download/))*.
+The other sub-section, `git`, is for users who have installed and use the `git` command-line interface *([Download `git` for Linux/Windows/Mac](https://git-scm.com/downloads))*.
 
 ### Download the Project
 
