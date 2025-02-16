@@ -71,5 +71,6 @@ python install.py
 
 You've installed the Dratini SDK (Software Development Kit)!
 
-From here, I highly recommend visiting [our ever-growing collection of examples](https://github.com/dratini-lang/examples)!
+From here, I highly recommend visiting [our ever-growing collection of examples ***(Coming soon!)***](https://github.com/dratini-lang/examples)!
 What happens next is up to you, friend 💝
+If you have any questions you'd that like to ask, features that you'd like to request, or suggestions that you'd like to make, then come check out our official Discord community ***(Coming soon!)*** 😊
