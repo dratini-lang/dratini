@@ -5,7 +5,7 @@ Dratini is a sister of the Python programming language designed to compile to na
 ## Foreword
 
 Dratini (DraTINI) stands for Dragon Transpiler, Interpreter, and Native-code Infrastucture.
-The word "dragon" is in the name as a direct reference to the fact that the Dratini language is meant to be far more powerful than Python at the cost of a slightly-differing API.
+The word "dragon" is in the name as a reference to the fact that the Dratini language is meant to be far more powerful than Python at the cost of a slightly-differing API.
 So far, there are no syntactical *(visual)* changes to the Dratini language as of yet.
 This means that Dratini code is 100% identical to Python code at the moment.
 However, this may potentially change in the future if the community collectively agrees on syntactical sugar valuable enough to the community to justify writing our own parser.
